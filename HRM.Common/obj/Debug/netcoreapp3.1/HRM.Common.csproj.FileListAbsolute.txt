@@ -1,0 +1,36 @@
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.deps.json
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csprojAssemblyReference.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfoInputs.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfo.cs
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csproj.CoreCompileInputs.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csproj.CopyComplete
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.deps.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csprojAssemblyReference.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfoInputs.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfo.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csproj.CoreCompileInputs.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csproj.CopyComplete
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.pdb
+D:\DotNetCore\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.deps.json
+D:\DotNetCore\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.dll
+D:\DotNetCore\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+D:\DotNetCore\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Models.dll
+D:\DotNetCore\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+D:\DotNetCore\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csprojAssemblyReference.cache
+D:\DotNetCore\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfoInputs.cache
+D:\DotNetCore\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfo.cs
+D:\DotNetCore\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csproj.CoreCompileInputs.cache
+D:\DotNetCore\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csproj.CopyComplete
+D:\DotNetCore\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.dll
+D:\DotNetCore\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.pdb

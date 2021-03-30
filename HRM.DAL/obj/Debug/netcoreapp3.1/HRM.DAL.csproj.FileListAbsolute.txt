@@ -1,0 +1,45 @@
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.deps.json
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.json
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.dev.json
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csprojAssemblyReference.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfoInputs.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfo.cs
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CopyComplete
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.genruntimeconfig.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csprojAssemblyReference.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfoInputs.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfo.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.deps.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.dev.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CopyComplete
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.genruntimeconfig.cache
+D:\DotNetCore\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.deps.json
+D:\DotNetCore\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.json
+D:\DotNetCore\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.dev.json
+D:\DotNetCore\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+D:\DotNetCore\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+D:\DotNetCore\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.Models.dll
+D:\DotNetCore\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+D:\DotNetCore\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csprojAssemblyReference.cache
+D:\DotNetCore\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfoInputs.cache
+D:\DotNetCore\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfo.cs
+D:\DotNetCore\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CoreCompileInputs.cache
+D:\DotNetCore\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CopyComplete
+D:\DotNetCore\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.dll
+D:\DotNetCore\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.pdb
+D:\DotNetCore\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.genruntimeconfig.cache

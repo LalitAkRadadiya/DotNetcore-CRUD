@@ -1,0 +1,267 @@
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.exe
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.deps.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.runtimeconfig.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.runtimeconfig.dev.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.Views.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.Views.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.csprojAssemblyReference.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.AssemblyInfoInputs.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.AssemblyInfo.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.csproj.CoreCompileInputs.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.RazorAssemblyInfo.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.RazorAssemblyInfo.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\staticwebassets\HRM.MVC.StaticWebAssets.Manifest.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\staticwebassets\HRM.MVC.StaticWebAssets.xml
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.MVC.styles.css
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.TagHelpers.input.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.TagHelpers.output.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.RazorCoreGenerate.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.RazorTargetAssemblyInfo.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.RazorTargetAssemblyInfo.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.Views.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.csproj.CopyComplete
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.genruntimeconfig.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Dashboard.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.exe
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.deps.json
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.runtimeconfig.json
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.runtimeconfig.dev.json
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.pdb
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.Views.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.MVC.Views.pdb
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.Models.dll
+D:\DotNetCore\HRM.MVC\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.csprojAssemblyReference.cache
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.AssemblyInfoInputs.cache
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.AssemblyInfo.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.csproj.CoreCompileInputs.cache
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.RazorAssemblyInfo.cache
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.RazorAssemblyInfo.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\staticwebassets\HRM.MVC.StaticWebAssets.Manifest.cache
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\staticwebassets\HRM.MVC.StaticWebAssets.xml
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.MVC.styles.css
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.TagHelpers.input.cache
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.TagHelpers.output.cache
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.RazorCoreGenerate.cache
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Dashboard.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.RazorTargetAssemblyInfo.cache
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.RazorTargetAssemblyInfo.cs
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.Views.pdb
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.csproj.CopyComplete
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.dll
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.pdb
+D:\DotNetCore\HRM.MVC\obj\Debug\netcoreapp3.1\HRM.MVC.genruntimeconfig.cache

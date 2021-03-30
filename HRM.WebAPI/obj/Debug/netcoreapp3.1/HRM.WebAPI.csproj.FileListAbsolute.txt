@@ -1,0 +1,239 @@
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.exe
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.deps.json
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.runtimeconfig.json
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.runtimeconfig.dev.json
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.BAL.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.BAL.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.csprojAssemblyReference.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.AssemblyInfoInputs.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.AssemblyInfo.cs
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\HRM.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\HRM.WebAPI.StaticWebAssets.xml
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.WebAPI.styles.css
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.csproj.CopyComplete
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.genruntimeconfig.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.csprojAssemblyReference.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.AssemblyInfoInputs.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.AssemblyInfo.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.exe
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.deps.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.runtimeconfig.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.runtimeconfig.dev.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.BAL.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.BAL.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\HRM.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\HRM.WebAPI.StaticWebAssets.xml
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.WebAPI.styles.css
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.csproj.CopyComplete
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.genruntimeconfig.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.exe
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.deps.json
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.runtimeconfig.json
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.runtimeconfig.dev.json
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.WebAPI.pdb
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.BAL.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.Models.dll
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.BAL.pdb
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+D:\DotNetCore\HRM.WebAPI\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.csprojAssemblyReference.cache
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.AssemblyInfoInputs.cache
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.AssemblyInfo.cs
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.csproj.CoreCompileInputs.cache
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\HRM.WebAPI.StaticWebAssets.Manifest.cache
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\HRM.WebAPI.StaticWebAssets.xml
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.WebAPI.styles.css
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.RazorTargetAssemblyInfo.cache
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.csproj.CopyComplete
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.dll
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.pdb
+D:\DotNetCore\HRM.WebAPI\obj\Debug\netcoreapp3.1\HRM.WebAPI.genruntimeconfig.cache

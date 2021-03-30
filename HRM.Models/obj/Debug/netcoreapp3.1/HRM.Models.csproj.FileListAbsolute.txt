@@ -1,0 +1,25 @@
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Models\bin\Debug\netcoreapp3.1\HRM.Models.deps.json
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Models\bin\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Models\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.AssemblyInfoInputs.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.AssemblyInfo.cs
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.csproj.CoreCompileInputs.cache
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\prince.makwana\source\repos\HRM.WebAPI\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Models\bin\Debug\netcoreapp3.1\HRM.Models.deps.json
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Models\bin\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Models\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.AssemblyInfoInputs.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.AssemblyInfo.cs
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.csproj.CoreCompileInputs.cache
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\pdm29\Web Development Projects\DOTNETCORE-ASSIGNMENT\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.csprojAssemblyReference.cache
+D:\DotNetCore\HRM.Models\bin\Debug\netcoreapp3.1\HRM.Models.deps.json
+D:\DotNetCore\HRM.Models\bin\Debug\netcoreapp3.1\HRM.Models.dll
+D:\DotNetCore\HRM.Models\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+D:\DotNetCore\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.AssemblyInfoInputs.cache
+D:\DotNetCore\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.AssemblyInfo.cs
+D:\DotNetCore\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.csproj.CoreCompileInputs.cache
+D:\DotNetCore\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.dll
+D:\DotNetCore\HRM.Models\obj\Debug\netcoreapp3.1\HRM.Models.pdb
