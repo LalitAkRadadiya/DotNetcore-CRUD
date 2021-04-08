@@ -43,7 +43,7 @@ namespace HRM.WebApi
             }
 
             app.UseHttpsRedirection();
-
+            
             app.UseRouting();
 
             app.UseAuthorization();

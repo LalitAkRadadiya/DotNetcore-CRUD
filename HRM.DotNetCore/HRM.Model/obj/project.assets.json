@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj",
+      "projectUniqueName": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj",
       "projectName": "HRM.Model",
-      "projectPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj",
+      "projectPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj",
       "packagesPath": "C:\\Users\\lalit.radadiya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\obj\\",
+      "outputPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

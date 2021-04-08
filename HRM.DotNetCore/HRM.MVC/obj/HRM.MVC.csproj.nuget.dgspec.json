@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.MVC\\HRM.MVC.csproj": {}
+    "D:\\DotNetCore\\HRM.DotNetCore\\HRM.MVC\\HRM.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj": {
+    "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj",
+        "projectUniqueName": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj",
         "projectName": "HRM.Model",
-        "projectPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj",
+        "projectPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj",
         "packagesPath": "C:\\Users\\lalit.radadiya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\obj\\",
+        "outputPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.MVC\\HRM.MVC.csproj": {
+    "D:\\DotNetCore\\HRM.DotNetCore\\HRM.MVC\\HRM.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.MVC\\HRM.MVC.csproj",
+        "projectUniqueName": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.MVC\\HRM.MVC.csproj",
         "projectName": "HRM.MVC",
-        "projectPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.MVC\\HRM.MVC.csproj",
+        "projectPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.MVC\\HRM.MVC.csproj",
         "packagesPath": "C:\\Users\\lalit.radadiya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.MVC\\obj\\",
+        "outputPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj": {
-                "projectPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj"
+              "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj": {
+                "projectPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj"
               }
             }
           }
@@ -115,6 +115,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             }
           },
           "imports": [

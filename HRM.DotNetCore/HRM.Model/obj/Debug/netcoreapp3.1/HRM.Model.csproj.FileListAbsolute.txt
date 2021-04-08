@@ -16,3 +16,11 @@ C:\Users\lalit.radadiya\Desktop\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1
 C:\Users\lalit.radadiya\Desktop\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.csproj.CoreCompileInputs.cache
 C:\Users\lalit.radadiya\Desktop\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.dll
 C:\Users\lalit.radadiya\Desktop\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.pdb
+D:\DotNetCore\HRM.DotNetCore\HRM.Model\bin\Debug\netcoreapp3.1\HRM.Model.deps.json
+D:\DotNetCore\HRM.DotNetCore\HRM.Model\bin\Debug\netcoreapp3.1\HRM.Model.dll
+D:\DotNetCore\HRM.DotNetCore\HRM.Model\bin\Debug\netcoreapp3.1\HRM.Model.pdb
+D:\DotNetCore\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.AssemblyInfoInputs.cache
+D:\DotNetCore\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.AssemblyInfo.cs
+D:\DotNetCore\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.csproj.CoreCompileInputs.cache
+D:\DotNetCore\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.dll
+D:\DotNetCore\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.pdb

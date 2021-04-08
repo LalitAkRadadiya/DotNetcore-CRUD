@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -17,9 +18,11 @@ namespace HRM.MVC.Controllers
     {
         Uri baseUrl = new Uri("https://localhost:44354/api/user");
         HttpClient client;
-
-        public UserController()
+        private readonly ILogger _logger;
+        public UserController(ILogger<UserController> logger)
         {
+
+            _logger = logger;
             client = new HttpClient();
             client.BaseAddress = baseUrl;
         }
@@ -31,53 +34,70 @@ namespace HRM.MVC.Controllers
         }
         async public Task<IActionResult> LoginUser(UserLoignViewModel model)
         {
-            if (model.Id == 0)
+            try
             {
-                string data = JsonConvert.SerializeObject(model);
-                StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
-                HttpResponseMessage res = client.PostAsync(client.BaseAddress + "/login", content).Result;
-                if (res.IsSuccessStatusCode)
+                if (model.Id == 0)
                 {
-                    var claims = new List<Claim>
+                    string data = JsonConvert.SerializeObject(model);
+                    StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
+                    HttpResponseMessage res = client.PostAsync(client.BaseAddress + "/login", content).Result;
+                    var name = res.Content.ReadAsStringAsync();
+                    UserLoignViewModel user = JsonConvert.DeserializeObject<UserLoignViewModel>(name.Result);
+                    if (res.IsSuccessStatusCode)
                     {
-                        new Claim(ClaimTypes.Name, model.email),
+                        var claims = new List<Claim>
+                    {
+                        new Claim(ClaimTypes.Name, user.username),
                         new Claim(ClaimTypes.Role, "Administrator"),
                     };
 
-                    var claimsIdentity = new ClaimsIdentity(
-                        claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                        var claimsIdentity = new ClaimsIdentity(
+                            claims, CookieAuthenticationDefaults.AuthenticationScheme);
 
-                    var authProperties = new AuthenticationProperties
-                    {
-                        AllowRefresh = true,
-                        ExpiresUtc = DateTime.UtcNow.AddMinutes(20),
-                        IsPersistent = true
-                    };
-                    await HttpContext.SignInAsync(
-                            CookieAuthenticationDefaults.AuthenticationScheme,
-                            new ClaimsPrincipal(claimsIdentity),
-                            authProperties);
-                    
-                    TempData["message"] = "Login Successfully";
-                    return RedirectToAction("Index","Employee");
+                        var authProperties = new AuthenticationProperties
+                        {
+                            AllowRefresh = true,
+                            ExpiresUtc = DateTime.UtcNow.AddMinutes(20),
+                            IsPersistent = true
+                        };
+                        await HttpContext.SignInAsync(
+                                CookieAuthenticationDefaults.AuthenticationScheme,
+                                new ClaimsPrincipal(claimsIdentity),
+                                authProperties);
+
+                        TempData["message"] = "Login Successfully";
+                        return RedirectToAction("Index", "Employee");
+                    }
+
+                    TempData["message"] = "InCorrect Credential";
+                    return RedirectToAction("Login", "User");
                 }
+                else
+                {
 
-                TempData["message"] = "InCorrect Credential";
-                return RedirectToAction("Login","User");
+
+                    TempData["message"] = "Plz Enter Email and Password";
+                    return View("Login");
+                }
             }
-            else
+            catch(Exception ex)
             {
-
-
-                TempData["message"] = "Plz Enter Email and Password";
                 return View("Login");
+                _logger.LogError(ex.Message);
             }
         }
 
         async public Task<IActionResult> Logout()
         {
-            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
-            return RedirectToAction("Login");
+            try
+            {
+                await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+                return RedirectToAction("Login");
+            }catch(Exception ex)
+            {
+                return RedirectToAction("Login");
+                _logger.LogError(ex.Message);
+            }
         }
     }
 }

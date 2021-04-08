@@ -26,3 +26,17 @@ C:\Users\lalit.radadiya\Desktop\HRM.DotNetCore\HRM.BAL\bin\Debug\netcoreapp3.1\H
 C:\Users\lalit.radadiya\Desktop\HRM.DotNetCore\HRM.BAL\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
 C:\Users\lalit.radadiya\Desktop\HRM.DotNetCore\HRM.BAL\bin\Debug\netcoreapp3.1\HRM.Model.pdb
 C:\Users\lalit.radadiya\Desktop\HRM.DotNetCore\HRM.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.csproj.CopyComplete
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\bin\Debug\netcoreapp3.1\HRM.BAL.deps.json
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\bin\Debug\netcoreapp3.1\HRM.BAL.dll
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\bin\Debug\netcoreapp3.1\HRM.BAL.pdb
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\bin\Debug\netcoreapp3.1\HRM.Model.dll
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\bin\Debug\netcoreapp3.1\HRM.Model.pdb
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.csprojAssemblyReference.cache
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.AssemblyInfoInputs.cache
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.AssemblyInfo.cs
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.csproj.CoreCompileInputs.cache
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.csproj.CopyComplete
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.dll
+D:\DotNetCore\HRM.DotNetCore\HRM.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.pdb

@@ -5853,11 +5853,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.WebApi\\HRM.WebApi.csproj",
+      "projectUniqueName": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.WebApi\\HRM.WebApi.csproj",
       "projectName": "HRM.WebApi",
-      "projectPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.WebApi\\HRM.WebApi.csproj",
+      "projectPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.WebApi\\HRM.WebApi.csproj",
       "packagesPath": "C:\\Users\\lalit.radadiya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.WebApi\\obj\\",
+      "outputPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5877,11 +5877,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.BAL\\HRM.BAL.csproj": {
-              "projectPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.BAL\\HRM.BAL.csproj"
+            "D:\\DotNetCore\\HRM.DotNetCore\\HRM.BAL\\HRM.BAL.csproj": {
+              "projectPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.BAL\\HRM.BAL.csproj"
             },
-            "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj": {
-              "projectPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj"
+            "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj": {
+              "projectPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj"
             }
           }
         }

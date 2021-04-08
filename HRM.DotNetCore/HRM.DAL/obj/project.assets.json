@@ -5815,11 +5815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.DAL\\HRM.DAL.csproj",
+      "projectUniqueName": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.DAL\\HRM.DAL.csproj",
       "projectName": "HRM.DAL",
-      "projectPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.DAL\\HRM.DAL.csproj",
+      "projectPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.DAL\\HRM.DAL.csproj",
       "packagesPath": "C:\\Users\\lalit.radadiya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.DAL\\obj\\",
+      "outputPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5839,8 +5839,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj": {
-              "projectPath": "C:\\Users\\lalit.radadiya\\Desktop\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj"
+            "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj": {
+              "projectPath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.Model\\HRM.Model.csproj"
             }
           }
         }

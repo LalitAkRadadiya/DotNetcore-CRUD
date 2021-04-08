@@ -66,7 +66,8 @@ namespace HRM.DAL.Repository
             var config = new MapperConfiguration(cfg => cfg.CreateMap<EmployeeViewModel, Employee>());
             var mapper = new Mapper(config);
             Employee emp = mapper.Map<Employee>(employee);
-            
+
+
             ent.Name = emp.Name;
             ent.Phone = emp.Phone;
             ent.Salary = emp.Salary;
