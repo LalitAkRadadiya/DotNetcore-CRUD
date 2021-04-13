@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNetCore\\HRM.Common\\HRM.Common.csproj": {}
+    "D:\\DotNetCore\\DummyProject\\HRM.Common\\HRM.Common.csproj": {}
   },
   "projects": {
-    "D:\\DotNetCore\\HRM.Common\\HRM.Common.csproj": {
+    "D:\\DotNetCore\\DummyProject\\HRM.Common\\HRM.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNetCore\\HRM.Common\\HRM.Common.csproj",
+        "projectUniqueName": "D:\\DotNetCore\\DummyProject\\HRM.Common\\HRM.Common.csproj",
         "projectName": "HRM.Common",
-        "projectPath": "D:\\DotNetCore\\HRM.Common\\HRM.Common.csproj",
+        "projectPath": "D:\\DotNetCore\\DummyProject\\HRM.Common\\HRM.Common.csproj",
         "packagesPath": "C:\\Users\\lalit.radadiya\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNetCore\\HRM.Common\\obj\\",
+        "outputPath": "D:\\DotNetCore\\DummyProject\\HRM.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\DotNetCore\\HRM.Models\\HRM.Models.csproj": {
-                "projectPath": "D:\\DotNetCore\\HRM.Models\\HRM.Models.csproj"
+              "D:\\DotNetCore\\DummyProject\\HRM.Models\\HRM.Models.csproj": {
+                "projectPath": "D:\\DotNetCore\\DummyProject\\HRM.Models\\HRM.Models.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\DotNetCore\\HRM.Models\\HRM.Models.csproj": {
+    "D:\\DotNetCore\\DummyProject\\HRM.Models\\HRM.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNetCore\\HRM.Models\\HRM.Models.csproj",
+        "projectUniqueName": "D:\\DotNetCore\\DummyProject\\HRM.Models\\HRM.Models.csproj",
         "projectName": "HRM.Models",
-        "projectPath": "D:\\DotNetCore\\HRM.Models\\HRM.Models.csproj",
+        "projectPath": "D:\\DotNetCore\\DummyProject\\HRM.Models\\HRM.Models.csproj",
         "packagesPath": "C:\\Users\\lalit.radadiya\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNetCore\\HRM.Models\\obj\\",
+        "outputPath": "D:\\DotNetCore\\DummyProject\\HRM.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

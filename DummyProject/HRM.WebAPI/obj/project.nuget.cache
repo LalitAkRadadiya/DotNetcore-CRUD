@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dH9870UhP007MbDgcBc69nc4fkKqYj1ZsQsmSYgh0QbKHmqwM8PRHC1wU9L0lC3N2QW/U+lbAtDRXk/fhXUEiA==",
+  "dgSpecHash": "5nbc4y+hPVspLIkIDBmDal3UiAP+5Bw0JKfy57MB36iU3TDux3z7ruJ6Kub0tyfyBW+WEfoVXuIVWM1oIVcvSQ==",
   "success": true,
-  "projectFilePath": "D:\\DotNetCore\\HRM.WebAPI\\HRM.WebAPI.csproj",
+  "projectFilePath": "D:\\DotNetCore\\DummyProject\\HRM.WebAPI\\HRM.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lalit.radadiya\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\lalit.radadiya\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

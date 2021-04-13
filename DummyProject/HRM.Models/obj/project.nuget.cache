@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJN906FyUjzgwD6+lPPFbVChw+k+/nx7qApujmaAUaQHzXtDKIUV9604oY82liZ6KXgX2j9qDjfxnw8gE2jDIg==",
+  "dgSpecHash": "AMoJNjarzaZX9pp2MjDHUCLZ9faAtjuNmeMEi1NNoNpf87klJT7I4bbkaFlN7hZB4WotdH3SOXmetn6m7a4sUg==",
   "success": true,
-  "projectFilePath": "D:\\DotNetCore\\HRM.Models\\HRM.Models.csproj",
+  "projectFilePath": "D:\\DotNetCore\\DummyProject\\HRM.Models\\HRM.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

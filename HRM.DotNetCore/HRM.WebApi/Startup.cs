@@ -29,7 +29,6 @@ namespace HRM.WebApi
         {
             services.AddControllers();
             services.AddScoped<IEmployeeManager, EmployeeManager>();
-
             services.AddScoped<IUserManager, UserManager>();
             DIHelper.DependencyHelper(ref services);
         }

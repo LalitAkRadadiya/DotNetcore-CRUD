@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0FXsIxb+I7xIfasoQu5ITrk+Z7frSvFZ6LGr0IXrPq2wBFFTJK/MwGHtTLUtOEJhWTptdr7hCPIzg2j//4NrpA==",
+  "dgSpecHash": "WvFLy/9t/a4nYu0pm4TyFJ8/iFdS+2aFmH0hXs+0NeheRhw3x73rBRvB7zAiOp6hvExX60Ow0Rl3ChxJqN2cUQ==",
   "success": true,
-  "projectFilePath": "D:\\DotNetCore\\HRM.BAL\\HRM.BAL.csproj",
+  "projectFilePath": "D:\\DotNetCore\\DummyProject\\HRM.BAL\\HRM.BAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lalit.radadiya\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\lalit.radadiya\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

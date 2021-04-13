@@ -9,6 +9,8 @@ namespace HRM.Model.Model
     {
         public int Id { get; set; }
         public string username { get; set; }
+
+
         [Required(AllowEmptyStrings =false,ErrorMessage ="Email Required For Login")]
         [DataType(DataType.EmailAddress)]
         

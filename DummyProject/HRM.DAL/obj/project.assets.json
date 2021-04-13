@@ -6077,11 +6077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNetCore\\HRM.DAL\\HRM.DAL.csproj",
+      "projectUniqueName": "D:\\DotNetCore\\DummyProject\\HRM.DAL\\HRM.DAL.csproj",
       "projectName": "HRM.DAL",
-      "projectPath": "D:\\DotNetCore\\HRM.DAL\\HRM.DAL.csproj",
+      "projectPath": "D:\\DotNetCore\\DummyProject\\HRM.DAL\\HRM.DAL.csproj",
       "packagesPath": "C:\\Users\\lalit.radadiya\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNetCore\\HRM.DAL\\obj\\",
+      "outputPath": "D:\\DotNetCore\\DummyProject\\HRM.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6101,8 +6101,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\DotNetCore\\HRM.Models\\HRM.Models.csproj": {
-              "projectPath": "D:\\DotNetCore\\HRM.Models\\HRM.Models.csproj"
+            "D:\\DotNetCore\\DummyProject\\HRM.Models\\HRM.Models.csproj": {
+              "projectPath": "D:\\DotNetCore\\DummyProject\\HRM.Models\\HRM.Models.csproj"
             }
           }
         }

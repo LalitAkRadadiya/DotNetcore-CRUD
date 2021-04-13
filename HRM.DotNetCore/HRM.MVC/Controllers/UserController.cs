@@ -34,8 +34,7 @@ namespace HRM.MVC.Controllers
         }
         async public Task<IActionResult> LoginUser(UserLoignViewModel model)
         {
-            try
-            {
+           
                 if (model.Id == 0)
                 {
                     string data = JsonConvert.SerializeObject(model);
@@ -79,25 +78,15 @@ namespace HRM.MVC.Controllers
                     TempData["message"] = "Plz Enter Email and Password";
                     return View("Login");
                 }
-            }
-            catch(Exception ex)
-            {
-                return View("Login");
-                _logger.LogError(ex.Message);
-            }
+            
         }
 
         async public Task<IActionResult> Logout()
         {
-            try
-            {
+           
                 await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
                 return RedirectToAction("Login");
-            }catch(Exception ex)
-            {
-                return RedirectToAction("Login");
-                _logger.LogError(ex.Message);
-            }
+            
         }
     }
 }

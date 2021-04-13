@@ -16,7 +16,9 @@ namespace HRM.MVC.Controllers
     public class EmployeeController : Controller
     {
         Uri baseUrl = new Uri("https://localhost:44354/api/Employee");
+        
         HttpClient client;
+
         private readonly ILogger _logger;
         public EmployeeController(ILogger<EmployeeController> logger)
         {
@@ -25,7 +27,7 @@ namespace HRM.MVC.Controllers
             client.BaseAddress = baseUrl;
         }
 
-        [ResponseCache(Duration = 5000)]
+        [ResponseCache(Duration = 5)]
         public IActionResult Index()
         {
             try

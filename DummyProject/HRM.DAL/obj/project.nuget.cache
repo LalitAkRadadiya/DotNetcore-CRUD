@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4fIwfmSHte/S93JSxo9vgluMKpNImFX4Pr7RyK8/GqYVE0soCYcENSIKaW4leU23N3T0erPnSVqc9zsLHRGHgw==",
+  "dgSpecHash": "PmZgnzqLMf3UvpHDr0e5dfMXswMtaOv2ezAsOJPBxM1wNJ9Yy4RU5YO7GClUGBGyjQVoi5eIgpwvQE5thmY3MQ==",
   "success": true,
-  "projectFilePath": "D:\\DotNetCore\\HRM.DAL\\HRM.DAL.csproj",
+  "projectFilePath": "D:\\DotNetCore\\DummyProject\\HRM.DAL\\HRM.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lalit.radadiya\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\lalit.radadiya\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

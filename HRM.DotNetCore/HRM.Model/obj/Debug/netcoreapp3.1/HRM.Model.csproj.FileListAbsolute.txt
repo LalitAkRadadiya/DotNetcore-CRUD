@@ -24,3 +24,4 @@ D:\DotNetCore\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.Assembl
 D:\DotNetCore\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.csproj.CoreCompileInputs.cache
 D:\DotNetCore\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.dll
 D:\DotNetCore\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.pdb
+D:\DotNetCore\HRM.DotNetCore\HRM.Model\obj\Debug\netcoreapp3.1\HRM.Model.csprojAssemblyReference.cache

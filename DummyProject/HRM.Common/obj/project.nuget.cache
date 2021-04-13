@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T6/w4XvtH7M+llvrBowlvf6NSe6EMLq/gsDfWrgLSdS2Qw1MMKYukQVXgMIvV8EezqYUv+6yzItLQffHxxLHRg==",
+  "dgSpecHash": "AozgO7oX320iGrisY1Udz++5/+xaIwMm711jRL8WgDG7Z1Pxsbv0z7NjO+7WP6qmxBeX1MnQP/Bwh+qyr12PWw==",
   "success": true,
-  "projectFilePath": "D:\\DotNetCore\\HRM.Common\\HRM.Common.csproj",
+  "projectFilePath": "D:\\DotNetCore\\DummyProject\\HRM.Common\\HRM.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
