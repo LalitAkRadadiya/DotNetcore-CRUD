@@ -214,3 +214,4 @@ D:\DotNetCore\HRM.DotNetCore\HRM.WebApi\obj\Debug\netcoreapp3.1\HRM.WebApi.cspro
 D:\DotNetCore\HRM.DotNetCore\HRM.WebApi\obj\Debug\netcoreapp3.1\HRM.WebApi.dll
 D:\DotNetCore\HRM.DotNetCore\HRM.WebApi\obj\Debug\netcoreapp3.1\HRM.WebApi.pdb
 D:\DotNetCore\HRM.DotNetCore\HRM.WebApi\obj\Debug\netcoreapp3.1\HRM.WebApi.genruntimeconfig.cache
+D:\DotNetCore\HRM.DotNetCore\HRM.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

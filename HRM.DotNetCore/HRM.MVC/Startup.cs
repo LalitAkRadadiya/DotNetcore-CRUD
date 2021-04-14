@@ -30,6 +30,10 @@ namespace HRM.MVC
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddResponseCaching();
+            services.AddDistributedMemoryCache();
+            services.AddSession(options => {
+                options.IdleTimeout = TimeSpan.FromMinutes(60);
+            });
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options =>
             {
                 options.LoginPath = "/user/LogIn";
@@ -43,6 +47,7 @@ namespace HRM.MVC
         {
             app.UseResponseCaching();
             app.UseRequestTimerMiddleWare();
+            app.UseSession();
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -70,7 +75,7 @@ namespace HRM.MVC
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Employee}/{action=Index}/{id?}");
+                    pattern: "{controller=User}/{action=Login}/{id?}");
             });
             loggerFactory.AddFile("RequestLog/logs.txt");
         }

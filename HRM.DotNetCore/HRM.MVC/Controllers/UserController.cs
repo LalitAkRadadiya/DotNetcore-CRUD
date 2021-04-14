@@ -1,6 +1,7 @@
 ﻿using HRM.Model.Model;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
@@ -42,34 +43,21 @@ namespace HRM.MVC.Controllers
                     HttpResponseMessage res = client.PostAsync(client.BaseAddress + "/login", content).Result;
                     var name = res.Content.ReadAsStringAsync();
                     UserLoignViewModel user = JsonConvert.DeserializeObject<UserLoignViewModel>(name.Result);
-                    if (res.IsSuccessStatusCode)
+
+                    if (user != null)
                     {
-                        var claims = new List<Claim>
-                    {
-                        new Claim(ClaimTypes.Name, user.username),
-                        new Claim(ClaimTypes.Role, "Administrator"),
-                    };
 
-                        var claimsIdentity = new ClaimsIdentity(
-                            claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                        HttpContext.Session.SetString("token", user.token);
 
-                        var authProperties = new AuthenticationProperties
-                        {
-                            AllowRefresh = true,
-                            ExpiresUtc = DateTime.UtcNow.AddMinutes(20),
-                            IsPersistent = true
-                        };
-                        await HttpContext.SignInAsync(
-                                CookieAuthenticationDefaults.AuthenticationScheme,
-                                new ClaimsPrincipal(claimsIdentity),
-                                authProperties);
-
-                        TempData["message"] = "Login Successfully";
                         return RedirectToAction("Index", "Employee");
+
+                    }
+                    else
+                    {
+                        return RedirectToAction("login", "User");
+
                     }
 
-                    TempData["message"] = "InCorrect Credential";
-                    return RedirectToAction("Login", "User");
                 }
                 else
                 {

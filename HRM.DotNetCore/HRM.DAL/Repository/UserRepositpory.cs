@@ -1,9 +1,14 @@
 ﻿using AutoMapper;
 using HRM.DAL.Database;
 using HRM.Model.Model;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 
 namespace HRM.DAL.Repository
@@ -14,6 +19,7 @@ namespace HRM.DAL.Repository
         public UserRepositpory()
         {
             _dataConext = new Databasecontext();
+           
         }
       
         public UserLoignViewModel login(UserLoignViewModel obj)
@@ -26,8 +32,8 @@ namespace HRM.DAL.Repository
             {
                 return null;
             }
+            
             return user;
-
         }
 
     }

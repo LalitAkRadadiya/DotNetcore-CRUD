@@ -1,5 +1,7 @@
 ﻿using HRM.Model.Model;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
@@ -7,12 +9,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace HRM.MVC.Controllers
 {
-    [Authorize]
+    [ActiionEmpfilter]
     public class EmployeeController : Controller
     {
         Uri baseUrl = new Uri("https://localhost:44354/api/Employee");
@@ -34,6 +37,7 @@ namespace HRM.MVC.Controllers
             {
                 ViewBag.data = DateTime.Now.ToString("dd/MM/yyyy hh:mm:ss");
                 List<EmployeeViewModel> modelList = new List<EmployeeViewModel>();
+                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", HttpContext.Session.GetString("token"));
                 HttpResponseMessage res = client.GetAsync(client.BaseAddress + "/getallemployee").Result;
                 if (res.IsSuccessStatusCode)
                 {

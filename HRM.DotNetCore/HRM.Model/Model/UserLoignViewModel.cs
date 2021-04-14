@@ -19,5 +19,7 @@ namespace HRM.Model.Model
         [DataType(DataType.Password)]
         [MinLength(5,ErrorMessage ="min 5 char Requried")]
         public string password { get; set; }
+
+        public string  token { get; set; }
     }
 }

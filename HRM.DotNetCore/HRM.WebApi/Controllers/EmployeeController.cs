@@ -1,5 +1,7 @@
 ﻿using HRM.BAL.Manager;
 using HRM.Model.Model;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -10,7 +12,9 @@ using System.Threading.Tasks;
 
 namespace HRM.WebApi.Controllers
 {
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     [Route("api/[controller]")]
+   
     [ApiController]
     public class EmployeeController : ControllerBase
     {

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "o2SuDgi8CMYmGuNl1z2oi1B4H7miIzP6YjR60b73sN7ei9XBj5b6s7jdnnXBYtaHCYUBJNzjtU/qJ+tzvbbF7g==",
+  "dgSpecHash": "d8XDcye4GEM2v3dbFjkg2Mw6nktHOs1k1BEd0f07Ddc/Ag0casGWUeVKuMqJDFjVbMk3zn7A4ad5ue+x3lPh2Q==",
   "success": true,
   "projectFilePath": "D:\\DotNetCore\\HRM.DotNetCore\\HRM.WebApi\\HRM.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lalit.radadiya\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\lalit.radadiya\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.14\\microsoft.aspnetcore.authentication.jwtbearer.3.1.14.nupkg.sha512",
     "C:\\Users\\lalit.radadiya\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\lalit.radadiya\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\lalit.radadiya\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
